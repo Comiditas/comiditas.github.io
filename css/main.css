@@ -22,12 +22,11 @@ a {
 
 .main h1 {
 	font-family: "SF Pro Rounded", "Helvetica Neue", sans-serif;
-	font-size: 80pt;
-	margin-left: 16pt;
+	font-size: 9vw;
 	color: #8E3B00;
 }
 
 .main img {
-	width: 250pt;
+	width: 24vw;
 	height: auto;
 }
